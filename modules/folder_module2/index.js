@@ -1,0 +1,1 @@
+console.log('folder module 2 has loaded');
